@@ -1,0 +1,44 @@
+Nome: João Gabriel Dias Freire
+
+1. Sistemas de banco de dados referem-se ao conjunto de dados relacionados e sua respectiva forma de acesso e organização...
+
+2. São compostos por uma coleção de dados organizados, uma estrutura lógica determinando a forma como os dados são armazenados, organizados e manipulados, e um software que provê acesso aos dados a usuários e aplicações.
+
+3. Por meio de consultas, que são interpretadas pelo sistema realizando otimizações necessárias para sua correta execução.
+
+4. É uma coleção de dados organizados. https://www.crunchyroll.com/pt-br/
+
+5. Finalidade → construídos com um propósito específico
+   Realidade → representam o "mundo real" (minimundo, universo de discurso)
+   Coerência → mantêm a coerência lógica da coleção
+   Compartilhamento → provêm compartilhamento de dados
+
+6. As etapas de um projeto de bd são: Especificação, Análise de Requisitos, Projeto Conceitual, Projeto Lógico, Projeto Físico .
+
+7. Coleção de programas (software) que permitem aos usuários criar e manter BDs.
+
+8. Algumas das principais propriedades de sgbs são: Flexibilidade, Múltiplas interfaces, Economia de escala, Garantia de padrões, Restrições de acesso, Backup e recuperação, Disponibilidade elevada, Restrições de integridade, Tempo de desenvolvimento, Relacionamentos complexos.
+
+9. Quando uma aplicação é muito simples e bem definida, ou em aplicações de tempo real, de alta escalabilidade e sistemas embarcados com capacidade de armazenamento limitada.
+
+10. É uma estrutura lógica que determina a forma como os dados são armazenados, organizados e manipulados.
+
+11. Conceitual, representativo e físico.
+
+12. São os metadados, descrição do banco de dados.
+
+13. Conjunto de dados armazenados em determinado momentu.
+
+14. A arquitetura de três esquemas facilita a independência de dados
+
+15. Nível externo, nívle interno, e npivel conceitual.
+
+16. O mapeamento é a transformação de requisições e resultados entre níveis.
+
+17. A independência de dados é a capacidade de se alterar o esquema em um nível sem precisar alterar o esquema no nível adjacente superior, o seu conceito já mostra a sua importância.
+
+18. Uma linguagem de alto nível, por ser usada de maneira interativa.
+
+19. SQL, VDL, DDL, SDL e DML.
+
+

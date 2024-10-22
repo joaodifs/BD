@@ -1,0 +1,12 @@
+1 - π first_name, last_name(σgender='F'(actors))
+
+2 - π name(σyear>1999(movies))
+
+3 - π movies.name, directors.first_name, directors.last_name (σ movies.id = movies_directors.movie_id (movies x (σ movies_directors.director_id = director_id (movies_directors x directors))))
+
+4 - π movies.name, actors.first_name, actors.last_name (σ (movies.id = roles.movie_id ∧ rank > 6)(movies x (σ (actors.id = roles.actor_id)(actors x roles))))
+
+5 - γ directors.first_name, directors.last_name; COUNT(movies_directors.movie_id)→ QMovies (σ directors.id = movies_directors.director_id (directors x movies_directors))
+
+6 - γ movies_genres.genre; COUNT(movies_genres.movie_id)→ QMovies (σ movies.id = movies_genres.movie_id (movies x movies_genres))
+
